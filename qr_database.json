@@ -1,0 +1,119 @@
+{
+  "users": {
+    "212684820141@s.whatsapp.net": {
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "banned": false,
+      "BannedReason": "",
+      "Banneduser": false,
+      "limit": 15,
+      "money": 150,
+      "premium": false,
+      "premiumTime": 0,
+      "name": "+212 684-820141",
+      "GBLanguage": 0,
+      "regTime": -1,
+      "registered": false,
+      "role": "*NOVATO(A)* 🪤",
+      "exp": 42
+    },
+    "212718449096@s.whatsapp.net": {
+      "afk": -1,
+      "afkReason": "",
+      "age": 0,
+      "banned": false,
+      "BannedReason": "",
+      "Banneduser": false,
+      "limit": 15,
+      "money": 150,
+      "premium": false,
+      "premiumTime": 0,
+      "name": "GryKJ",
+      "GBLanguage": 0,
+      "regTime": -1,
+      "registered": false,
+      "role": "*NOVATO(A)* 🪤",
+      "exp": null
+    }
+  },
+  "chats": {
+    "212684820141@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiver": true,
+      "modoadmin": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiTiktok": false,
+      "antiYoutube": false,
+      "antiTelegram": false,
+      "antiFacebook": false,
+      "antiInstagram": false,
+      "antiTwitter": false,
+      "antifake": false,
+      "antiTraba": true,
+      "antitoxic": true,
+      "reaction": true,
+      "expired": 0
+    },
+    "120363296304438275@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiver": true,
+      "modoadmin": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiTiktok": false,
+      "antiYoutube": false,
+      "antiTelegram": false,
+      "antiFacebook": false,
+      "antiInstagram": false,
+      "antiTwitter": false,
+      "antifake": false,
+      "antiTraba": true,
+      "antitoxic": true,
+      "reaction": true,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "buscadores.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1719242346448,
+      "lastSuccess": 1719242346448
+    },
+    "eval.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1719857541922,
+      "lastSuccess": 1719857541922
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "212684820141@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "autoread2": false,
+      "restrict": false,
+      "antiCall": true,
+      "antiPrivate": false,
+      "jadibotmd": true
+    }
+  }
+}
